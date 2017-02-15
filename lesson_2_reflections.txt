@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	we need to do this because before we can make any commit we need to tell the program: "Hey i'm going
 	to make commits, stay at by"
 	
+How is the staging area different from the working directory and the repository? What value do you think
+it offers?
+
+	asdfghjkl
+	
