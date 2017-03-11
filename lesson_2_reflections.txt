@@ -6,20 +6,21 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think
 it offers?
 
-	asdfghjklss
+	the value it offers is that we can control wich files i want to be commited
 	
 How can you use the staging area to make sure you have one commit per logical change?
 
-	dfghjkl
+	by only adding the file or files that were modified by that logical change
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches 
+help?
 
-	sdfjk
+	by creating a branch by logical funtions, i will know were are the commits of each fucntion.
 
 How do the diagrams help you visualize the branch structure?
 
-	asdfghjklss
+	Because it is easier to analyse diagrams than an history of commits
 	
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	asdfghjk
+	the result it's an update in a branch.
