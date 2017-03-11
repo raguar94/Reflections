@@ -24,13 +24,15 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 5. How can you use the commands git log and git diff to view the history of files?
 
-	Fill in your answer here
+	With git log i can see the history of commits that i made, and with git diff i can see the changes
+	i made between two commits
 
 6. How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Because i have the guarante and the safety that it doesn´t matter what happen to the code proyect,
+	i always have a backup to start again.
 
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    For my college proyects
