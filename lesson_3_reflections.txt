@@ -8,3 +8,11 @@ your remote repository?
 
 	Because that all the information i have in my computer won´t be in the remote repository, only the 
 	informatión i think is relevant or it's necesary for an easy access will be in the remote repository.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	The difference between a branche and fork & clone, is that a branche is a path that let us change
+	differents aspects in a code without interfere with anotherone, finaly fork and clone have the same 
+	function, the difference is that fork is used to copy repositorys in GitHub, and clone to copy
+	repositorys to our devices.
+	
