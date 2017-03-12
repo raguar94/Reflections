@@ -16,3 +16,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	function, the difference is that fork is used to copy repositorys in GitHub, and clone to copy
 	repositorys to our devices.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	The reasons are two, first, to know wich are the differences between my code and the remote one, 
+	and the second reason is to know if the remote one was modified.
